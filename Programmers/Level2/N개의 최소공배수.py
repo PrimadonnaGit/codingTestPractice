@@ -2,7 +2,6 @@ import math
 
 
 def solution(arr):
-    answer = 0
     answer = arr[0]
     # lcd = (x*y) / gcd(x,y)
     for num in arr:
