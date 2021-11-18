@@ -1,4 +1,4 @@
-# https://programmers.co.kr/learn/courses/30/lessons/12909/solution_groups?language=python3
+# https://programmers.co.kr/learn/courses/30/lessons/12909
 def solution(s):
     answer = True
     left_count = 0
